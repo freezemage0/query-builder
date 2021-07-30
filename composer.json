@@ -1,0 +1,17 @@
+{
+    "name": "freezemage/query-builder",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Demyan Seleznev",
+            "email": "seleznev@intervolga.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Freezemage\\QueryBuilder\\": "src/"
+        }
+    }
+}
